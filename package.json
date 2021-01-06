@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@nutui/nutui": "^2.1.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "better-scroll": "^1.15.2",
     "echarts": "^4.6.0",
     "html2canvas": "^1.0.0-rc.5",
